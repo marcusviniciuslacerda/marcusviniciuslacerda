@@ -1,6 +1,6 @@
 <div align="center">
 
-# Marcus Vinicius
+# Marco Vinicio
 
 ### Estudante de Tecnologia em Sistemas para Internet 💻
 
