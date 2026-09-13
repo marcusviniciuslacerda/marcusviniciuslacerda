@@ -1,7 +1,6 @@
 <div align="center">
 
- Marcus Vinicius 
-
+# Marco Vinício
 ### Estudante de Tecnologia em Sistemas para Internet 💻
 
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square\&logo=github\&logoColor=white)](https://github.com/marcusviniciuslacerda)
