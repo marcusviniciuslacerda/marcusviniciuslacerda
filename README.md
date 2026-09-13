@@ -1,11 +1,12 @@
 <div align="center">
 
-# Marcus Vinicius 
+# Marcus Vinicius
+
 ### Estudante de Tecnologia em Sistemas para Internet 💻
 
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square\&logo=github\&logoColor=white)](https://github.com/marcusviniciuslacerda)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=white)](https://github.com/marcusviniciuslacerda)
 
-![Profile Views](https://komarev.com/ghpvc/?username=marcusviniciuslacerda\&color=555555\&style=flat-square\&label=VISITAS)
+![Profile Views](https://komarev.com/ghpvc/?username=marcusviniciuslacerda&color=555555&style=flat-square&label=VISITAS)
 
 </div>
 
@@ -62,4 +63,3 @@ Projetos desenvolvidos durante minha graduação envolvendo desenvolvimento web,
 **[GitHub](https://github.com/marcusviniciuslacerda)**
 
 </div>
-
